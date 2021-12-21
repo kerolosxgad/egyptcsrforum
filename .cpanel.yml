@@ -1,0 +1,5 @@
+---
+deployment:
+  tasks:
+    - export DEPLOYPATH=/home/codexeg/csr.codexeg.net/
+    - /bin/cp -R * $DEPLOYPATH
