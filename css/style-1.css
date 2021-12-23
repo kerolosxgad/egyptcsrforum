@@ -2711,7 +2711,7 @@ img {
 }
 
 .about-section .icon-circle-blue {
-	right: -150px;
+	right: -60px;
 	bottom: -150px;
 	opacity: .70;
 	-webkit-animation: fa-spin 30s infinite;
@@ -11448,3 +11448,20 @@ body::-webkit-scrollbar-thumb
 									   to(#67DA4C )
 									   )
 }
+@media screen and (max-width: 992px)
+ {
+	.video-section .content-box p{
+		font-size: 12px;
+	}
+}
+
+
+
+
+
+
+
+
+
+
+

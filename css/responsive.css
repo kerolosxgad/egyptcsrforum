@@ -137,6 +137,7 @@
 	.about-section .image-column .image{
 		max-width: 500px;
 		display: inline-block;
+		width: 70%;
 	}
 
 	.register-form button,
@@ -573,9 +574,19 @@
 	.event-info-section .info-column .sec-title h2,
 	.about-section .content-column .sec-title h2,
 	.sec-title h2{
-		font-size: 34px;
+		font-size: 25px;
 		line-height: 1.2em;
 	}
+
+	.sec-title .title{
+		font-size: 20px;
+	}
+
+	.main-footer .footer-bottom .copyright-text p{
+		font-size: 12px;
+	}
+
+
 
 	.banner-conference-two .content-box h2{
 		font-size:40px;
