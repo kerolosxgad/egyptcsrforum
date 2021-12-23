@@ -549,8 +549,8 @@
 if ($(window).width() < 960) {
 $('#more').css("display","none");
 $('#more1').css("display","none");
-$("#myBtn").attr("hidden",false);
-$("#myBtn1").attr("hidden",false);
+$("#myBt").attr("hidden",false);
+$("#myBt1").attr("hidden",false);
 
 function myFunction() {
     var dots = document.getElementById("dots");

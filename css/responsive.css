@@ -287,6 +287,12 @@
 		display: none !important;
 	}
 
+	.news-block h4 a{
+		font-size: 22px;
+	}
+
+
+
 	.main-header .header-lower .nav-outer{
 		padding-right: 0;
 	}
@@ -305,7 +311,7 @@
 	}
 
 	.main-header .logo-box .logo img{
-		top:5px
+		padding:8px;
 	}
 
 	.page-title{
