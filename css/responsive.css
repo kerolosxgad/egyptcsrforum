@@ -54,12 +54,12 @@
 	.main-header.fixed-header,
 	.main-header .main-box{
 		/* position: relative !important; */
-		background-color: #1e1f36;
+		/*background-color: #1e1f36;*/
 	}
 
 	.main-header .main-box{
 		padding: 10px 0;
-		background-color: #1e1f36;
+		/*background-color: #1e1f36;*/
 	}
 
 	.header-style-two,
@@ -300,6 +300,12 @@
 	.nav-outer .mobile-nav-toggler{
 		display: block;
 		margin: 0;
+		top: 5px;
+		color: white;
+	}
+
+	.main-header .logo-box .logo img{
+		top:5px
 	}
 
 	.page-title{

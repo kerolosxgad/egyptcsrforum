@@ -81,14 +81,31 @@
         $('.mobile-nav-toggler').on('click', function () {
             $('body').addClass('mobile-menu-visible');
         });
-
         //Menu Toggle Btn
-        $('.mobile-menu .menu-backdrop,.mobile-menu .close-btn').on(
+        $('.mobile-menu .menu-backdrop,.mobile-menu .close-btn .navigation').on(
             'click',
             function () {
                 $('body').removeClass('mobile-menu-visible');
             }
+
+            
+
+
         );
+
+        $("li a").
+            on(
+                'click',
+                function () {
+                    $('body').removeClass('mobile-menu-visible');
+                }
+    
+                
+    
+    
+            );
+       
+
     }
 
     //Shedule Block
