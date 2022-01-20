@@ -1,5 +1,5 @@
 ---
 deployment:
   tasks:
-    - export DEPLOYPATH=/home/codexeg/csr.codexeg.net/
+    - export DEPLOYPATH=/home/egyptcsrforum/public_html/
     - /bin/cp -R * $DEPLOYPATH
