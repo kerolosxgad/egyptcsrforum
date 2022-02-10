@@ -1728,17 +1728,116 @@ img {
 	position: relative;
 }
 
-.banner-carousel .slide-item {
+.banner-carousel .slide-item1 {
 	position: relative;
 	background-repeat: no-repeat;
 	background-size: 100% 100%;
 	padding: 250px 0 200px;
 	text-align: center;
-	background-image: url(../images/main-slider/3.png);
+	background-image: url('../images/main-slider/Artboard 1.png');
+}
+
+.banner-carousel .slide-item2 {
+	position: relative;
+	background-repeat: no-repeat;
+	background-size: 100% 100%;
+	padding: 250px 0 200px;
+	text-align: center;
+	background-image: url('../images/main-slider/Artboard 2.png');
 }
 
 
-.rtl .banner-carousel .slide-item{
+.banner-carousel .slide-item3 {
+	position: relative;
+	background-repeat: no-repeat;
+	background-size: 100% 100%;
+	padding: 250px 0 200px;
+	text-align: center;
+	background-image: url('../images/main-slider/Artboard 3.png');
+}
+
+.banner-carousel .slide-item4 {
+	position: relative;
+	background-repeat: no-repeat;
+	background-size: 100% 100%;
+	padding: 250px 0 200px;
+	text-align: center;
+	background-image: url('../images/main-slider/Artboard 4.png');
+}
+
+
+.banner-carousel .slide-item5 {
+	position: relative;
+	background-repeat: no-repeat;
+	background-size: 100% 100%;
+	padding: 250px 0 200px;
+	text-align: center;
+	background-image: url('../images/main-slider/Artboard 5.png');
+}
+
+
+
+
+.banner-carousel .slide-item6 {
+	position: relative;
+	background-repeat: no-repeat;
+	background-size: 100% 100%;
+	padding: 250px 0 200px;
+	text-align: center;
+	background-image: url('../images/main-slider/Artboard 6.png');
+}
+
+
+
+.banner-carousel .slide-item7 {
+	position: relative;
+	background-repeat: no-repeat;
+	background-size: 100% 100%;
+	padding: 250px 0 200px;
+	text-align: center;
+	background-image: url('../images/main-slider/Artboard 7.png');
+}
+
+
+.banner-carousel .slide-item8 {
+	position: relative;
+	background-repeat: no-repeat;
+	background-size: 100% 100%;
+	padding: 250px 0 200px;
+	text-align: center;
+	background-image: url('../images/main-slider/Artboard 8.png');
+}
+
+.banner-carousel .slide-item9 {
+	position: relative;
+	background-repeat: no-repeat;
+	background-size: 100% 100%;
+	padding: 250px 0 200px;
+	text-align: center;
+	background-image: url('../images/main-slider/Artboard 9.png');
+}
+
+.banner-carousel .slide-item10 {
+	position: relative;
+	background-repeat: no-repeat;
+	background-size: 100% 100%;
+	padding: 250px 0 200px;
+	text-align: center;
+	background-image: url('../images/main-slider/Artboard 10.png');
+}
+
+.banner-carousel .slide-item1 {
+	position: relative;
+	background-repeat: no-repeat;
+	background-size: 100% 100%;
+	padding: 250px 0 200px;
+	text-align: center;
+	background-image: url('../images/main-slider/Artboard 11.png');
+}
+
+
+
+.rtl .banner-carousel .slide-item1{
 	position: relative;
 	background-repeat: no-repeat;
 	background-size: 100% 100%;
@@ -1749,14 +1848,123 @@ img {
 
 
 @media screen and (max-width: 992px) {
-	.banner-carousel .slide-item {
+	.banner-carousel .slide-item1 {
 		position: relative;
 		background-repeat: no-repeat;
 		background-position: center;
 		padding: 250px 0 200px;
 		text-align: center;
-		background-image: url(../images/main-slider/3.png);
+		background-image: url('../images/main-slider/mobile/Artboard m1.png');
 	}
+
+
+	.banner-carousel .slide-item2 {
+		position: relative;
+		background-repeat: no-repeat;
+		background-size: 100% 100%;
+		padding: 250px 0 200px;
+		text-align: center;
+		background-image: url('../images/main-slider/mobile/Artboard 2.png');
+	}
+	
+	
+	.banner-carousel .slide-item3 {
+		position: relative;
+		background-repeat: no-repeat;
+		background-size: 100% 100%;
+		padding: 250px 0 200px;
+		text-align: center;
+		background-image: url('../images/main-slider/mobile/Artboard 3.png');
+	}
+	
+	.banner-carousel .slide-item4 {
+		position: relative;
+		background-repeat: no-repeat;
+		background-size: 100% 100%;
+		padding: 250px 0 200px;
+		text-align: center;
+		background-image: url('../images/main-slider/mobile/Artboard 4.png');
+	}
+	
+	
+	.banner-carousel .slide-item5 {
+		position: relative;
+		background-repeat: no-repeat;
+		background-size: 100% 100%;
+		padding: 250px 0 200px;
+		text-align: center;
+		background-image: url('../images/main-slider/mobile/Artboard 5.png');
+	}
+	
+	
+	
+	
+	.banner-carousel .slide-item6 {
+		position: relative;
+		background-repeat: no-repeat;
+		background-size: 100% 100%;
+		padding: 250px 0 200px;
+		text-align: center;
+		background-image: url('../images/main-slider/mobile/Artboard 6.png');
+	}
+	
+	
+	
+	.banner-carousel .slide-item7 {
+		position: relative;
+		background-repeat: no-repeat;
+		background-size: 100% 100%;
+		padding: 250px 0 200px;
+		text-align: center;
+		background-image: url('../images/main-slider/mobile/Artboard 7.png');
+	}
+	
+	
+	.banner-carousel .slide-item8 {
+		position: relative;
+		background-repeat: no-repeat;
+		background-size: 100% 100%;
+		padding: 250px 0 200px;
+		text-align: center;
+		background-image: url('../images/main-slider/mobile/Artboard 8.png');
+	}
+	
+	.banner-carousel .slide-item9 {
+		position: relative;
+		background-repeat: no-repeat;
+		background-size: 100% 100%;
+		padding: 250px 0 200px;
+		text-align: center;
+		background-image: url('../images/main-slider/mobile/Artboard 9.png');
+	}
+	
+	.banner-carousel .slide-item10 {
+		position: relative;
+		background-repeat: no-repeat;
+		background-size: 100% 100%;
+		padding: 250px 0 200px;
+		text-align: center;
+		background-image: url('../images/main-slider/mobile/Artboard 10.png');
+	}
+	
+	.banner-carousel .slide-item1 {
+		position: relative;
+		background-repeat: no-repeat;
+		background-size: 100% 100%;
+		padding: 250px 0 200px;
+		text-align: center;
+		background-image: url('../images/main-slider/mobile/Artboard 11.png');
+	}
+
+
+
+
+
+
+
+
+
+
 }
 
 .banner-carousel .content-box {
