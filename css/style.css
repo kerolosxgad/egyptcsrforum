@@ -7450,13 +7450,6 @@ img {
 }
 
 
-/*** 
-
-====================================================================
-		Register Section
-====================================================================
-
-***/
 
 .register-section {
 	position: relative;
@@ -7475,7 +7468,7 @@ img {
 	position: relative;
 	float: left;
 	width: 20%;
-	background-image: url(../images/icons/form-bg.png);//
+	background-image: url(../images/icons/form-bg.png);
 	background-repeat: no-repeat;
 	background-position: center;
 	background-size: cover;
