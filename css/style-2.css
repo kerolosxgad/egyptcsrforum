@@ -981,7 +981,6 @@ img {
 .main-header .logo-box {
 	position: relative;
 	float: left;
-	right: 25%;
 	-webkit-transition: all 300ms ease;
 	-moz-transition: all 300ms ease;
 	-ms-transition: all 300ms ease;
