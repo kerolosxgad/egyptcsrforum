@@ -8369,6 +8369,7 @@ img {
 	position: relative;
 	text-align: center;
 	margin-bottom: 0;
+	border-radius: 25px;
 	border: 1px solid #dddddd;
 	box-shadow: 0 0 30px rgba(0, 0, 0, 0.10);
 	background-color: #ffffff;
