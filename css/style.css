@@ -4068,7 +4068,7 @@ img {
 	right: -10px;
 	top: -4px;
 	height: 100%;
-	background-image: url(../images/icons/shape-5.png);
+	background-image: ;
 	-webkit-transform: scale(-1);
 	-moz-transform: scale(-1);
 	-ms-transform: scale(-1);
@@ -4083,8 +4083,6 @@ img {
 .speaker-block-three .image-box .image {
 	position: relative;
 	display: inline-block;
-	height: 150px;
-	width: 150px;
 	overflow: hidden;
 	border: 4px solid #295c5e;
 	box-shadow: 0 0 20px rgba(0, 0, 0, 0.30);
@@ -4101,7 +4099,7 @@ img {
 	border-radius: 0px;
 }
 
-.speaker-block-three .image-box .image img {
+.speaker-block-three .image-box .simage img {
 	display: block;
 	width: 100%;
 	-webkit-transition: all 300ms ease;
@@ -5514,7 +5512,7 @@ img {
 .icon-shape-5 {
 	width: 540px;
 	height: 330px;
-	background-image: url(../images/icons/shape-5.png);
+	background-image: ;
 	background-size: 100%;
 }
 
