@@ -1,0 +1,39 @@
+.conAlert {
+    text-align: center;
+    padding: 10px;
+    background: #79c879;
+    color: #fff;
+    margin: auto;
+    position: relative;
+    height: fit-content;
+    width: 90%;
+    border-radius: 5px;
+    display: none;
+}
+
+.regAlert {
+    text-align: center;
+    padding: 10px;
+    background: #79c879;
+    color: #fff;
+    margin: auto;
+    position: relative;
+    height: fit-content;
+    width: 90%;
+    border-radius: 5px;
+    display: none;
+}
+
+.regClosed {
+    text-align: center;
+    padding: 30px;
+    background: #1e3965;
+    color: #fff;
+    margin: auto;
+    position: relative;
+    height: fit-content;
+    width: 100%;
+    border-radius: 5px;
+    font-size: large;
+    display: block;
+}

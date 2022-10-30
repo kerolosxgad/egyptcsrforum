@@ -39,7 +39,7 @@
                 siteHeader.removeClass('fixed-header');
                 document
                     .getElementById("myImg")
-                    .src = "../images/logo-3.png";
+                    .src = "../images/logo.png";
                 var all = document.getElementsByClassName('black');
                 for (var i = 0; i < all.length; i++) {
                     all[i].style.color = 'black';
