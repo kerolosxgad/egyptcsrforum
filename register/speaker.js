@@ -26,7 +26,6 @@ function handleregFormSubmit(event) {
                 grecaptcha.reset();
                 $(".regForm").trigger("reset");
                 document.querySelector('.g-recaptcha').style.display = 'none';
-                document.querySelector('.regHide').style.display = 'none';
                 document.querySelector('.regAlert').style.display = 'block';
                 document.querySelector('.regBtn').style.display = 'none';
                 document.querySelector('.done').style.display = 'inline';
