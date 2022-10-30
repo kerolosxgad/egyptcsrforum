@@ -27,7 +27,7 @@
                     die("Connection Failed : ". $conn->connect_error);
                 } else {
                     mysqli_set_charset($conn,"utf8");
-                    $stmt = $conn->prepare("insert into attendee(name, phone, email, org, title, address) values(?, ?, ?, ?, ?, ?)");
+                    $stmt = $conn->prepare("insert into speaker(name, phone, email, org, title, address) values(?, ?, ?, ?, ?, ?)");
                     $stmt->bind_param("ssssss", $name, $phone, $email, $org, $title, $address);
                     $execval = $stmt->execute();
                     $stmt->close();
